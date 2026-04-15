@@ -8,8 +8,8 @@ Selected manuscripts and preprints by **Ziwei Zhao** (TUM / RUC GSAI).
   *Ziwei Zhao, Yanxi Lu, Yuwei Hu, Shiyang Su, Mingxuan Wang, Chenyue Zhou, Jiayi Chen, Hehan Li, Xiaoshuai Hao, Andi Zhang, Yanbiao Ma\**
   Manuscript, 2025. First author.
 
-- **MessToClean** — [PDF](./MessToClean-ACL2026.pdf)
-  Accepted to **ACL 2026 Main Conference**. (Anonymous submission version; camera-ready author list forthcoming.)
+- **ACL 2026 Main Conference paper (double-blind, title withheld)** — [PDF](./paper-acl2026-01.pdf)
+  Accepted to ACL 2026 Main Conference. Author list forthcoming in camera-ready.
 
 ## Other Works
 
